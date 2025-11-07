@@ -1,0 +1,477 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    background-color: #1a1a1a;
+}
+
+/* Barra de navegación superior - Azul */
+.barra-superior-azul {
+    background: linear-gradient(to right, #64baff, #3689e6);
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.seccion-logo {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.enlace-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.icono-logo {
+    width: 24px;
+    height: 24px;
+    background: white;
+    border-radius: 50%;
+}
+
+.menu-principal {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.menu-principal a {
+    color: white;
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: opacity 0.3s;
+}
+
+.menu-principal a:hover {
+    opacity: 0.8;
+}
+
+.iconos-redes-sociales {
+    display: flex;
+    gap: 1rem;
+}
+
+.iconos-redes-sociales a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: opacity 0.3s;
+}
+
+.iconos-redes-sociales a:hover {
+    opacity: 0.8;
+}
+
+/* Barra de navegación de categorías - Negro */
+.barra-categorias {
+    background-color: #333;
+    padding: 0.75rem 2rem;
+    border-bottom: 1px solid #444;
+}
+
+.barra-categorias ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.barra-categorias a {
+    color: #ccc;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+}
+
+.barra-categorias a:hover {
+    color: white;
+}
+
+.barra-categorias li:has(.enlace-carrito) {
+    margin-left: auto;
+}
+
+
+/* Sección principal de bienvenida */
+.seccion-principal {
+    background-color: #2b2b2b;
+    padding: 4rem 2rem;
+    text-align: left;
+}
+
+.contenido-principal {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.seccion-principal h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.seccion-principal p {
+    font-size: 1.1rem;
+    color: #ccc;
+    max-width: 800px;
+    line-height: 1.8;
+}
+
+/* Sección de dispositivos */
+.seccion-dispositivos {
+    background-color: #2b2b2b;
+    padding: 3rem 2rem;
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo-seccion {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 300;
+    color: #ccc;
+}
+
+.subtitulo-seccion {
+    color: #999;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+}
+
+.cuadricula-dispositivos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.tarjeta-dispositivo {
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: border-color 0.3s;
+}
+
+.tarjeta-dispositivo:hover {
+    border-color: #64baff;
+}
+
+.tarjeta-dispositivo h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+.tarjeta-dispositivo h3 a {
+    color: #d6d7d8;
+    text-decoration: none;
+}
+
+.tarjeta-dispositivo h3 a:hover {
+    text-decoration: underline;
+}
+
+.info-dispositivo {
+    color: #aaa;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.nota-dispositivo {
+    color: #888;
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-top: 1rem;
+}
+
+/* Sección de productos */
+.seccion-productos {
+    background-color: #2b2b2b;
+    padding: 3rem 2rem;
+}
+
+.cuadricula-productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.tarjeta-producto {
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, border-color 0.3s;
+}
+
+.tarjeta-producto:hover {
+    transform: translateY(-5px);
+    border-color: #64baff;
+}
+
+.imagen-producto {
+    width: 100%;
+    height: 280px;
+    background-color: #444;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.imagen-producto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.info-producto {
+    padding: 1.5rem;
+}
+
+.titulo-producto {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 400;
+    color: #fff;
+}
+
+.subtitulo-producto {
+    font-size: 0.9rem;
+    color: #aaa;
+    margin-bottom: 1rem;
+}
+
+.precio-producto {
+    font-size: 1.1rem;
+    color: #ccc;
+    font-weight: 500;
+}
+
+/* Botón de menú móvil */
+.boton-menu-movil {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Sección de Envíos */
+.seccion-envios {
+    background-color: #2b2b2b;
+    padding: 3rem 2rem;
+}
+
+.titulo-envios {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+    color: #fff;
+}
+
+.descripcion-envios {
+    font-size: 1rem;
+    color: #ccc;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+}
+
+.nota-envios {
+    font-size: 0.9rem;
+    color: #999;
+    line-height: 1.6;
+}
+
+/* Footer */
+.pie-pagina {
+    background-color: #1a1a1a;
+    padding: 2rem;
+    border-top: 1px solid #333;
+}
+
+.contenedor-footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.copyright {
+    color: #888;
+    font-size: 0.9rem;
+}
+
+.iconos-footer {
+    display: flex;
+    gap: 1rem;
+}
+
+.iconos-footer a {
+    color: #888;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s;
+}
+
+.iconos-footer a:hover {
+    color: #64baff;
+}
+
+.enlaces-footer {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.enlaces-footer a {
+    color: #888;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+}
+
+.enlaces-footer a:hover {
+    color: #fff;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+/* Diseño responsivo */
+@media (max-width: 968px) {
+    .barra-superior-azul {
+        padding: 0.75rem 1rem;
+    }
+
+    .menu-principal {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: linear-gradient(to right, #64baff, #3689e6);
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+        z-index: 1000;
+    }
+
+    .menu-principal.active {
+        display: flex;
+    }
+
+    .boton-menu-movil {
+        display: block;
+    }
+
+    .barra-categorias {
+        padding: 0.75rem 1rem;
+        overflow-x: auto;
+    }
+
+    .barra-categorias ul {
+        gap: 1rem;
+        flex-wrap: nowrap;
+    }
+
+    .seccion-principal h1 {
+        font-size: 2rem;
+    }
+
+    .cuadricula-productos {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+
+    .cuadricula-dispositivos {
+        grid-template-columns: 1fr;
+    }
+
+    .contenedor-footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .enlaces-footer {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 640px) {
+    .barra-superior-azul {
+        flex-wrap: wrap;
+    }
+
+    .iconos-redes-sociales {
+        display: none;
+    }
+
+    .seccion-principal {
+        padding: 2rem 1rem;
+    }
+
+    .seccion-principal h1 {
+        font-size: 1.75rem;
+    }
+
+    .seccion-productos,
+    .seccion-dispositivos {
+        padding: 2rem 1rem;
+    }
+
+    .cuadricula-productos {
+        grid-template-columns: 1fr;
+    }
+
+    .barra-categorias ul {
+        gap: 0.75rem;
+    }
+
+    .seccion-envios {
+        padding: 2rem 1rem;
+    }
+
+    .titulo-envios {
+        font-size: 1.5rem;
+    }
+
+    .enlaces-footer {
+        gap: 1rem;
+    }
+}

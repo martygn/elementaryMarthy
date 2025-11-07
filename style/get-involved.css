@@ -1,0 +1,92 @@
+:root {
+    --purple-base: #7239b3;
+    --purple-light: #9b75d7;
+    --orange: #d99a27;
+    --green: #68b723;
+    --red: #c6262e;
+    --purple-dark: #7239b3;
+    --blue: #2176d3;
+    --gray: #667885;
+    --muted: #f6f8f9;
+    --text: #222;
+}
+
+/* Reset / base */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, "Helvetica Neue", Arial; color: var(--text); }
+
+/* Top navigation */
+.nav { background: #fff; border-bottom: 1px solid #eee; }
+.nav-content { max-width: 1200px; margin: 0 auto; display:flex; align-items:center; padding: 1rem; gap:1rem; }
+.logo img { display:block; }
+.nav-links { list-style:none; display:flex; gap:1rem; margin:0; padding:0; }
+.nav-links a { color: #333; text-decoration:none; font-size:0.95rem; }
+.social-links { margin-left:auto; display:flex; gap:0.5rem; }
+.social-links img { opacity:0.8; }
+
+/* Hero */
+.hero { background: #fff; text-align:center; padding:6rem 1rem 2.5rem; }
+.hero-title { font-size:3.5rem; font-weight:700; margin:0 0 1rem; color: #333; }
+.hero-subtitle { color:#6b6b6b; max-width:760px; margin:0 auto 2rem; line-height:1.6; font-size:1.05rem; }
+
+/* Buttons row under hero */
+.hero-buttons { display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; }
+.hero-buttons .button { display:inline-block; padding:0.5rem 1rem; border-radius:4px; font-weight:600; font-size:0.95rem; box-shadow:none; }
+.hero-buttons .button.orange { background:var(--orange); }
+.hero-buttons .button.green { background:var(--green); }
+.hero-buttons .button.red { background:var(--red); }
+.hero-buttons .button.purple { background:var(--purple-dark); }
+.hero-buttons .button.blue { background:var(--blue); }
+.hero-buttons .button.gray { background:var(--gray); }
+.hero-buttons .button:hover { opacity:0.95; transform:none; }
+
+/* Thin divider */
+.hero-separator { height:36px; background: linear-gradient(#fafbfc,#fafbfc); border-top:1px solid #f0f2f3; }
+
+/* Content area */
+.content { background: var(--muted); padding:3rem 0 4rem; }
+.container { max-width:1100px; margin:0 auto; padding:0 1rem; }
+.section-title { text-align:center; font-size:1.75rem; font-weight:500; margin:1rem 0; }
+.lead { text-align:center; color:#666; max-width:760px; margin:0 auto 2rem; }
+
+/* Funding grid - two rows: first row two columns (GitHub, Patreon), second row two columns (PayPal, Liberapay) */
+.funding-grid { display:grid; grid-template-columns: repeat(2, 1fr); gap:2.5rem; align-items:start; }
+.funding-item { background: transparent; text-align:center; padding:1rem 2rem; }
+.funding-item img { display:block; margin:0 auto 1rem; }
+.funding-item p { color:#555; margin-bottom:1rem; }
+.funding-item .button { display:inline-block; padding:0.6rem 1.2rem; border-radius:4px; }
+.funding-item .button.gray { background:#e9e9ea; color:#333; }
+
+/* Section icons used in support / design / funding columns */
+.section-icon { display:block; margin:0 auto 1rem; width:56px; height:auto; opacity:0.95; }
+
+@media (max-width:900px) {
+  .section-icon { width:48px; }
+}
+
+/* Support / Docs columns styling */
+.support-grid { display:grid; grid-template-columns: repeat(2, 1fr); gap:2.5rem; align-items:start; }
+.support-grid .col { text-align:left; }
+.support-grid .col h3 { font-size:1.15rem; margin-top:0.25rem; }
+.support-grid .col p { color:#565656; line-height:1.6; }
+
+/* Typography color adjustments */
+.section-title { color: #3b3b3b; }
+.lead, .funding-item p, .support-grid .col p { color: #616161; }
+
+/* Translations two-column layout */
+.two-col { display:grid; grid-template-columns: 1fr 420px; gap:2rem; align-items:center; }
+.two-col .map img { max-width:100%; height:auto; }
+
+/* Footer */
+.footer { background:#fff; padding:2rem 0; border-top:1px solid #eee; }
+.footer-content { max-width:1100px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
+.footer-links { list-style:none; display:flex; gap:1rem; margin:0; padding:0; }
+.footer-links a { color:#666; text-decoration:none; font-size:0.9rem; }
+
+@media (max-width:900px) {
+  .two-col { grid-template-columns:1fr; }
+  .funding-grid { grid-template-columns:1fr; }
+  .hero-title { font-size:2.25rem; }
+}
+

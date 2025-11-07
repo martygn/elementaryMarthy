@@ -1,0 +1,340 @@
+<!doctype html>
+<!--[if IE]><html lang="es" class="ie-legacy"><![endif]-->
+<!--[if !IE]><!--><html lang="es"><!--<![endif]-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+        <meta name="description" content="The thoughtful, capable, and ethical replacement for Windows and macOS">
+        <meta name="author"      content="elementary, Inc.">
+        <meta name="theme-color" content="#3E4E54">
+
+        <meta name="twitter:card"        content="summary_large_image">
+        <meta name="twitter:site"        content="@elementary">
+        <meta name="twitter:creator"     content="@elementary">
+
+        <meta property="og:title"       content="Forma parte de elementary OS" />
+        <meta property="og:description" content="The thoughtful, capable, and ethical replacement for Windows and macOS" />
+        <meta property="og:image"       content="https://elementary.io/images/preview.png" />
+
+        <meta itemprop="name"        content="Forma parte de elementary OS" />
+        <meta itemprop="description" content="The thoughtful, capable, and ethical replacement for Windows and macOS" />
+        <meta itemprop="image"       content="https://elementary.io/images/preview.png" />
+
+        <meta name="apple-mobile-web-app-title" content="elementary">
+        <link rel="manifest" href="/manifest.json">
+
+        <title>Forma parte de elementary OS</title>
+
+        <base href="/">
+
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="apple-touch-icon" href="images/launcher-icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="images/favicon.png" sizes="256x256">
+
+                <link rel="alternate" type="text/html" hreflang="en" href="/get-involved">
+        
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.9.0/css/all.css" integrity="sha384-vlOMx0hKjUCl4WzuhIhSNZSm2yQCaf0mOU1hEDK/iztH3gU4v5NMmJln9273A6Jz" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" media="all" href="styles/main-1af9a42a86.css">
+
+                <link rel="stylesheet" type="text/css" media="all" href="">
+                <link rel="stylesheet" type="text/css" media="all" href="styles/get-involved-91ad6d4d9b.css">
+        
+                <script src="/scripts/runtime.c6df459104ac60a3e81b.js"></script>
+        <script src="/scripts/main.d7b0bd947db7db7ac0fb.js" async></script>
+
+                    <script async defer data-domain="elementary.io" src="https://plausible.io/js/script.js"></script>
+                    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
+                        </head>
+    <body class="page-get-involved">
+        <nav>
+            <button class="menu-button" title="Toggle navigation menu" aria-label="Toggle navigation menu" aria-expanded="false"><svg aria-hidden="true" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M0 6v1h24V6zm0 6v1h24v-1zm0 6v1h24v-1z"/></svg></button>
+            <div class="nav-content">
+                <ul>
+                    <li><a  href="/es/" class="logomark"><svg xmlns="http://www.w3.org/2000/svg" height="22" width="22"><path d="M11 0C4.926 0 0 4.926 0 11s4.926 11 11 11 11-4.926 11-11S17.074 0 11 0zm-.02 1.049h.002a.07.07 0 00.018 0c4.548 0 8.384 3.052 9.57 7.217a17.315 17.315 0 01-4.213 5.496c-.847.733-1.773 1.383-2.79 1.842-1.018.458-2.136.719-3.247.656a5.6 5.6 0 01-2.271-.633 18.276 18.276 0 005.078-4.12c.956-1.116 1.791-2.39 2.115-3.833.165-.722.19-1.48.04-2.207a4.079 4.079 0 00-.999-1.965 4.013 4.013 0 00-1.855-1.098 4.85 4.85 0 00-2.153-.078c-1.423.261-2.693 1.086-3.705 2.108-1.787 1.8-2.89 4.34-2.687 6.875.102 1.267.524 2.511 1.252 3.554.143.205.302.398.467.584a16.228 16.228 0 01-3.086.739A9.946 9.946 0 0110.98 1.049zm.07 2.02c.004-.001.016.002.012.001.692 0 1.387.211 1.936.627a3.2 3.2 0 011.068 1.49 4.12 4.12 0 01.192 1.848c-.143 1.243-.77 2.388-1.533 3.393-1.354 1.778-3.156 3.203-5.159 4.2-.19.095-.386.187-.582.274a5.114 5.114 0 01-1.05-1.295c-.59-1.044-.784-2.284-.67-3.482.116-1.199.526-2.356 1.082-3.43.643-1.244 1.516-2.418 2.732-3.09a4.14 4.14 0 011.973-.537zm9.83 6.81c.042.367.071.739.071 1.117 0 5.497-4.452 9.953-9.95 9.953a9.917 9.917 0 01-7.59-3.53 18.138 18.138 0 003.17-1.06c.461.346.967.634 1.507.84 1.59.61 3.392.52 4.996-.035 1.603-.555 3.021-1.549 4.256-2.705a18.264 18.264 0 003.54-4.58z"/></svg></a></li>
+                    <li><a  href="/es/support">Soporte</a></li>
+                    <li><a  href="https://developer.elementary.io" target="_self">Desarrollar</a></li>
+                    <li><a  href="/es/get-involved">Participa</a></li>
+                    <li><a  href="https://store.elementary.io" target="_self">Tienda</a></li>
+                    <li><a  href="https://blog.elementary.io" target="_self">Blog</a></li>
+                </ul>
+                <ul class="right">
+                    <li><a  href="https://youtube.com/user/elementaryproject" target="_blank" rel="noopener" data-l10n-off aria-label="YouTube" title="YouTube"><i aria-hidden="true" class="fab fa-youtube"></i></a></li>
+                    <li><a  href="https://mastodon.social/@elementary" target="_blank" rel="noopener me" data-l10n-off aria-label="Mastodon" title="Mastodon"><i aria-hidden="true" class="fab fa-mastodon"></i></a></li>
+                    <li><a  href="https://discord.gg/pCenUBu" target="_blank" rel="noopener" data-l10n-off aria-label="Discord" title="Discord"><i aria-hidden="true" class="fab fa-discord"></i></a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <noscript>
+            <div id="js-alert">
+                <p><strong>JavaScript is required</strong> for parts of this site, like downloading elementary OS and some interactive components.</p>
+            </div>
+        </noscript>
+
+        <div id="content-container">
+
+<section class="hero">
+    <div class="grid">
+        <div class="two-thirds">
+            <h1>Sea parte de algo más grande</h1>
+            <p>Todo lo que creamos es código abierto en un 100% y desarrollado en colaboración con personas de todo el mundo. Aunque no sea programador, puede involucrarse y hacer la diferencia.</p>
+        </div>
+    </div>
+    <div class="grid">
+        <div class="whole" id="sections-menu">
+            <a  class="button flat suggested-action" href="#funding">Apoyo económico</a>
+            <a  class="button flat suggested-action" href="#translations">Traducciones</a>
+            <a  class="button flat suggested-action" href="#support">Soporte</a>
+            <a  class="button flat suggested-action" href="#web-development">Web</a>
+            <a  class="button flat suggested-action" href="#desktop-development">Escritorio</a>
+            <a  class="button flat suggested-action" href="#design">Diseño</a>
+        </div>
+    </div>
+</section>
+
+<section id="funding" class="grey">
+    <div class="grid">
+        <div class="two-thirds">
+            <h2>Apoyo económico</h2>
+            <p class="text-center">Con la ayuda de nuestros usuarios y seguidores hemos pasado de un reducido grupo de voluntarios a una pequeña empresa sostenible. Cada apoyo nos permite mejorar elementary OS y abordar problemas cada vez más complejos y ambiciosos.</p>
+        </div>
+    </div>
+
+    <div class="grid">
+        <div class="half">
+            <i class="fab fa-github" title="GitHub Sponsors"></i>
+            <p>Financie elementary directamente y reciba un emblema en nuestro perfil de GitHub para mostrar su apoyo. GitHub Sponsors no cobra cargos adicionales, lo cual permite que su contribución vaya más allá.</p>
+            <a  class="button flat suggested-action" href="https://github.com/sponsors/elementary" target="_blank" rel="noopener">Patrocinar en GitHub</a>
+        </div>
+        <div class="half">
+            <img  class="logo" alt="Patreon" title="Patreon" src="images/get-involved/patreon.svg">
+            <p>Patreon funciona como una campaña de mecenazgo persistente. Elija un monto de contribución mensual para ayudarnos a alcanzar nuestras metas. Además, reciba recompensas exclusivas y acceda anticipadamente a determinado contenido.</p>
+            <a  class="button flat" href="https://www.patreon.com/elementary" target="_blank" rel="noopener">Apoyar en Patreon</a>
+        </div>
+    </div>
+
+    <div class="grid">
+        <div class="third">
+            <i class="fab fa-paypal"></i>
+            <p>Utilice una tarjeta de crédito, débito o una cuenta de PayPal. Puede realizar un único pago o programar pagos periódicos.</p>
+            <form action="https://www.paypal.com/cgi-bin/webscr" id="paypalform" method="post" target="_top">
+            <input  type="hidden" name="cmd" value="_s-xclick">
+            <input  type="hidden" name="hosted_button_id" value="LG382EHQVTDYN">
+            <input  type="submit" value="Vía PayPal" name="submit" title="PayPal, ¡la forma más sencilla y segura de pagar en línea!" class="button flat">
+            <img  alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </div>
+        <div class="third">
+            <img  class="logo" alt="Liberapay" src="images/get-involved/liberapay_logo_black.svg">
+            <p>Programe una contribución periódica a través de Liberapay, la plataforma de financiación sin fines de lucro y de código abierto.</p>
+            <a  class="button flat" title="Liberapay" href="https://liberapay.com/elementary/" target="_blank" rel="noopener">Contribuir en Liberapay</a>
+        </div>
+    </div>
+</section>
+
+<section id="translations">
+    <div class="grid">
+        <div class="whole">
+            <h2>Traducciones</h2>
+        </div>
+        <div class="half">
+            <p>El sistema operativo elementary lo crean y usan personas de todo el mundo. Ayúdenos a mejorar la experiencia traduciéndolo a más idiomas.</p>
+            <p>Tanto elementary OS como este sitio web se traducen a través de una plataforma en línea llamada Weblate. <a  href="https://docs.elementary.io/contributor-guide/localization/translations" class="read-more">Aprenda más</a></p>
+
+            <div class="actions">
+                <a  class="button flat" href="https://matrix.to/#/%23elementary-l10n%3Amatrix.org" target="_blank" rel="noopener">Únase a la conversación</a>
+                <a  class="button flat suggested-action" href="https://l10n.elementaryos.org/projects/" target="_blank" rel="noopener">Sugiera traducciones</a>
+            </div>
+        </div>
+        <div class="half">
+            <img  src="images/get-involved/translations.svg" alt="Mapamundi">
+        </div>
+    </div>
+</section>
+
+<section id="support" class="grey">
+    <div class="grid">
+        <div class="two-thirds">
+            <h2>Soporte</h2>
+            <p></p>
+        </div>
+        <div class="half">
+            <h3>Preguntas y respuestas</h3>
+            <p>Utilizamos <em>Github Discussions</em> para preguntas de la comunidad. Cualquiera puede crear una cuenta y comenzar a preguntar y contestar.</p>
+            <a  class="button flat" href="https://github.com/orgs/elementary/discussions?discussions_q=category:Q%26A+sort:date_created">Preguntas nuevas</a>
+            <a  class="button flat suggested-action" href="https://github.com/orgs/elementary/discussions?discussions_q=category:Q%26A++is:unanswered">Preguntas sin respuesta</a>
+        </div>
+        <div class="half">
+            <h3>Documentación</h3>
+            <p>elementary proporciona la documentación básica tanto para usuarios como desarrolladores. Todos los documentos están escritos en <em>markdown</em> y alojados en GitHub, por lo que es muy fácil enviar modificaciones o crear una nueva sección.</p>
+            <a  class="button flat" href="https://github.com/elementary/website/blob/master/docs/learning-the-basics.md" target="_blank" rel="noopener">Guía de conceptos básicos</a>
+            <a  class="button flat" href="https://github.com/elementary/docs" target="_blank" rel="noopener">Documentación para desarrolladores</a>
+        </div>
+    </div>
+</section>
+
+<section id="web-development">
+    <div class="web-browser">
+        <div id="toolbar">
+            <img  src="images/get-involved/browser-left.svg">
+            <div id="search-bar"></div>
+            <img  src="images/icons/actions/symbolic/window-maximize-symbolic.svg">
+        </div>
+        <h2>Desarrollo web</h2>
+        <p>Nuestra página web está creada mediante HTML, CSS, PHP y JavaScript. Siempre buscamos personas con experiencia en estas áreas que quieran ayudarnos a mejorarla.</p>
+        <a  class="button flat" href="https://github.com/elementary/website/issues" target="_blank" rel="noopener">Informar de un problema en el sitio web</a>
+        <a  class="button flat suggested-action" href="https://github.com/elementary/website" target="_blank" rel="noopener">Código fuente de la web en GitHub</a>
+    </div>
+</section>
+
+<section id="desktop-development" class="grey">
+    <div class="grid">
+        <div class="two-thirds">
+            <h2>Desarrollo del sistema operativo</h2>
+            <p>Nuestro entorno de escritorio y todas sus aplicaciones se crean utilizando Vala, GTK, Granite y otras librerías de código abierto. Alojamos todo nuestro código y realizamos todo el desarrollo en GitHub. Si nunca antes ha desarrollado para elementary OS, le recomendamos que consulte nuestra guía para desarrolladores.</p>
+            <a  class="button flat" href="https://docs.elementary.io/develop/" target="_blank" rel="noopener">Guía para desarrolladores</a>
+            <a  class="button flat suggested-action" href="https://github.com/elementary" target="_blank" rel="noopener">Explorar el código</a>
+        </div>
+    </div>
+    <div class="grid">
+        <div class="third">
+            <h3>Informar de problemas</h3>
+            <p>Ayúdenos detectando errores e informando sobre estos. O bien, colabore confirmando, aclarando y depurando los informes existentes.</p>
+            <a  class="button flat" href="https://docs.elementary.io/contributor-guide/feedback/reporting-issues">Consulte la guía</a>
+        </div>
+        <div class="third">
+            <h3>Corrija problemas</h3>
+            <p>Contribuya con elementary OS mediante la corrección de errores, la mejora de funcionalidades o implementando características nuevas. <a  class="read-more" href="https://docs.elementary.io/contributor-guide" target="_blank" rel="noopener">Aprenda más</a></p>
+            <a  class="button flat" href="https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aelementary+label%3A%22bitesize%22&type=" target="_blank" rel="noopener">Informes de errores para principiantes</a>
+        </div>
+        <div class="third">
+            <h3>Cree aplicaciones</h3>
+            <p>Mejore el ecosistema de elementary OS y gane dinero creando programas de calidad para el Centro de Aplicaciones.</p>
+            <a  class="button flat" href="https://developer.elementary.io/" target="_blank" rel="noopener">Publique en el Centro de Aplicaciones</a>
+        </div>
+    </div>
+</section>
+
+<section id="design">
+    <div class="grid">
+        <div class="two-thirds">
+            <h2>Diseño</h2>
+            <p class="text-center">Nuestro equipo de diseño convierte las ideas en informes claros y proyectos entregables. Antes de comenzar, se recomienda leer sobre nuestro flujo de trabajo en diseño. <a  class="read-more" href="https://docs.elementary.io/hig/design-philosophy" target="_blank" rel="noopener">Aprenda más</a></p>
+        </div>
+    </div>
+    <div class="design-links">
+        <div>
+            <img  src="images/get-involved/bugs.svg">
+            <p>Nuestro equipo de diseño realiza un seguimiento de los problemas de &laquo;Necesita diseño&raquo; en GitHub. Estos pueden necesitar más discusión de diseño, <em>wireframes</em> o entregables.</p>
+            <a  class="button flat suggested-action" href="https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aelementary+label%3A%22Needs+Design%22" target="_blank" rel="noopener">Ver problemas de &laquo;Necesita diseño&raquo;</a>
+        </div>
+        <div>
+            <img  src="images/get-involved/stylesheet.svg">
+            <p>elementary OS utiliza una hoja de estilo para el sistema escrita en CSS. Define cómo la interfaz, tales como los botones, las barras de herramientas y menús, se muestran.</p>
+            <a  class="button flat" href="https://github.com/elementary/stylesheet" target="_blank" rel="noopener">Ver hoja de estilos</a>
+        </div>
+        <div>
+            <img  src="images/get-involved/icons.svg">
+            <p>elementary OS viene con un conjunto de iconos vectoriales que se utilizan en todas las aplicaciones predeterminadas y están disponibles para aplicaciones de terceros.</p>
+            <a  class="button flat" href="https://github.com/elementary/icons" target="_blank" rel="noopener">Explorar iconos</a>
+        </div>
+    </div>
+</section>
+
+       </div>
+        <footer>
+            <div>
+                <p>
+                    Copyright &copy; 2025 elementary, Inc.                </p>
+                <div class="popover">
+                    <a  href="#"><i class="far fa-language"></i> Idioma</a>
+                    <div class="popover-content">
+                        <strong>Cambiar el idioma del sitio web</strong>
+                        <ul>
+                                                    <li><a  href="/en/get-involved" rel="alternate" hreflang="en" data-l10n-off>
+                                English                            </a></li>
+                                                            <hr>
+                                                            <li><a  href="/ar/get-involved" rel="alternate" hreflang="ar" data-l10n-off>
+                                العَرَبِيَّة‎‎                            </a></li>
+                                                        <li><a  href="/be/get-involved" rel="alternate" hreflang="be" data-l10n-off>
+                                Беларуская                            </a></li>
+                                                        <li><a  href="/ca/get-involved" rel="alternate" hreflang="ca" data-l10n-off>
+                                català                            </a></li>
+                                                        <li><a  href="/cs/get-involved" rel="alternate" hreflang="cs" data-l10n-off>
+                                čeština                            </a></li>
+                                                        <li><a  href="/da/get-involved" rel="alternate" hreflang="da" data-l10n-off>
+                                Dansk                            </a></li>
+                                                        <li><a  href="/de/get-involved" rel="alternate" hreflang="de" data-l10n-off>
+                                Deutsch                            </a></li>
+                                                        <li><a  href="/es/get-involved" rel="alternate" hreflang="es" data-l10n-off>
+                                Español                            </a></li>
+                                                        <li><a  href="/fa/get-involved" rel="alternate" hreflang="fa" data-l10n-off>
+                                فارسی                            </a></li>
+                                                        <li><a  href="/fi/get-involved" rel="alternate" hreflang="fi" data-l10n-off>
+                                Finnish                            </a></li>
+                                                        <li><a  href="/fr/get-involved" rel="alternate" hreflang="fr" data-l10n-off>
+                                Français                            </a></li>
+                                                        <li><a  href="/gl/get-involved" rel="alternate" hreflang="gl" data-l10n-off>
+                                Galego                            </a></li>
+                                                        <li><a  href="/he/get-involved" rel="alternate" hreflang="he" data-l10n-off>
+                                עִברִית                            </a></li>
+                                                        <li><a  href="/id/get-involved" rel="alternate" hreflang="id" data-l10n-off>
+                                Bahasa Indonesia                            </a></li>
+                                                        <li><a  href="/it/get-involved" rel="alternate" hreflang="it" data-l10n-off>
+                                Italiano                            </a></li>
+                                                        <li><a  href="/ja/get-involved" rel="alternate" hreflang="ja" data-l10n-off>
+                                日本語                            </a></li>
+                                                        <li><a  href="/ko/get-involved" rel="alternate" hreflang="ko" data-l10n-off>
+                                한국어                            </a></li>
+                                                        <li><a  href="/lt/get-involved" rel="alternate" hreflang="lt" data-l10n-off>
+                                Lietuvių kalba                            </a></li>
+                                                        <li><a  href="/ms/get-involved" rel="alternate" hreflang="ms" data-l10n-off>
+                                bahasa Melayu                            </a></li>
+                                                        <li><a  href="/mr/get-involved" rel="alternate" hreflang="mr" data-l10n-off>
+                                मराठी                            </a></li>
+                                                        <li><a  href="/nb/get-involved" rel="alternate" hreflang="nb" data-l10n-off>
+                                Bokmål                            </a></li>
+                                                        <li><a  href="/nl/get-involved" rel="alternate" hreflang="nl" data-l10n-off>
+                                Nederlands                            </a></li>
+                                                        <li><a  href="/nn/get-involved" rel="alternate" hreflang="nn" data-l10n-off>
+                                Nynorsk                            </a></li>
+                                                        <li><a  href="/pa/get-involved" rel="alternate" hreflang="pa" data-l10n-off>
+                                ਪੰਜਾਬੀ                            </a></li>
+                                                        <li><a  href="/pl/get-involved" rel="alternate" hreflang="pl" data-l10n-off>
+                                Polski                            </a></li>
+                                                        <li><a  href="/pt_BR/get-involved" rel="alternate" hreflang="pt-BR" data-l10n-off>
+                                Português (Brasil)                            </a></li>
+                                                        <li><a  href="/pt/get-involved" rel="alternate" hreflang="pt" data-l10n-off>
+                                Português (Portugal)                            </a></li>
+                                                        <li><a  href="/ru/get-involved" rel="alternate" hreflang="ru" data-l10n-off>
+                                Русский                            </a></li>
+                                                        <li><a  href="/sk/get-involved" rel="alternate" hreflang="sk" data-l10n-off>
+                                Slovak                            </a></li>
+                                                        <li><a  href="/sv/get-involved" rel="alternate" hreflang="sv" data-l10n-off>
+                                Swedish                            </a></li>
+                                                        <li><a  href="/tr/get-involved" rel="alternate" hreflang="tr" data-l10n-off>
+                                Türkçe                            </a></li>
+                                                        <li><a  href="/uk/get-involved" rel="alternate" hreflang="uk" data-l10n-off>
+                                українська                            </a></li>
+                                                        <li><a  href="/vi/get-involved" rel="alternate" hreflang="vi" data-l10n-off>
+                                Tiếng Việt                            </a></li>
+                                                        <li><a  href="/zh_CN/get-involved" rel="alternate" hreflang="zh-CN" data-l10n-off>
+                                简体中文                            </a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <ul>
+                <li><a  href="/press">Press</a></li>
+                <li><a  href="/brand">Marca</a></li>
+                <li><a  href="/oem">OEMs</a></li>
+                <li><a  href="/privacy">Privacy</a></li>
+                <li><a  href="https://github.com/orgs/elementary/people">Equipo</a></li>
+                <li><a  href="/open-source">Código abierto</a></li>
+            </ul>
+        </footer>
+           <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"5b401af0237f48978f34769dfe6f5f68","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

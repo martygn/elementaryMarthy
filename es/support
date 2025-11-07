@@ -1,0 +1,309 @@
+<!doctype html>
+<!--[if IE]><html lang="es" class="ie-legacy"><![endif]-->
+<!--[if !IE]><!--><html lang="es"><!--<![endif]-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+        <meta name="description" content="The thoughtful, capable, and ethical replacement for Windows and macOS">
+        <meta name="author"      content="elementary, Inc.">
+        <meta name="theme-color" content="#3689e6">
+
+        <meta name="twitter:card"        content="summary_large_image">
+        <meta name="twitter:site"        content="@elementary">
+        <meta name="twitter:creator"     content="@elementary">
+
+        <meta property="og:title"       content="Soporte &sdot; elementary" />
+        <meta property="og:description" content="The thoughtful, capable, and ethical replacement for Windows and macOS" />
+        <meta property="og:image"       content="https://elementary.io/images/preview.png" />
+
+        <meta itemprop="name"        content="Soporte &sdot; elementary" />
+        <meta itemprop="description" content="The thoughtful, capable, and ethical replacement for Windows and macOS" />
+        <meta itemprop="image"       content="https://elementary.io/images/preview.png" />
+
+        <meta name="apple-mobile-web-app-title" content="elementary">
+        <link rel="manifest" href="/manifest.json">
+
+  <title>Soporte &sdot; elementary</title>
+
+  <base href="./">
+
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="imagenes/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="imagenes/favicon.png" sizes="256x256">
+
+                <link rel="alternate" type="text/html" hreflang="en" href="/support">
+        
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.9.0/css/all.css" integrity="sha384-vlOMx0hKjUCl4WzuhIhSNZSm2yQCaf0mOU1hEDK/iztH3gU4v5NMmJln9273A6Jz" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" media="all" href="style/main-1af9a42a86.css">
+
+    <link rel="stylesheet" type="text/css" media="all" href="style/support-62c0636985.css">
+        
+                <script src="/scripts/runtime.c6df459104ac60a3e81b.js"></script>
+        <script src="/scripts/main.d7b0bd947db7db7ac0fb.js" async></script>
+
+                    <script async defer data-domain="elementary.io" src="https://plausible.io/js/script.js"></script>
+                    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
+                        </head>
+    <body class="page-support">
+        <nav>
+            <button class="menu-button" title="Toggle navigation menu" aria-label="Toggle navigation menu" aria-expanded="false"><svg aria-hidden="true" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M0 6v1h24V6zm0 6v1h24v-1zm0 6v1h24v-1z"/></svg></button>
+            <div class="nav-content">
+                <ul>
+                    <li><a  href="/es/" class="logomark"><svg xmlns="http://www.w3.org/2000/svg" height="22" width="22"><path d="M11 0C4.926 0 0 4.926 0 11s4.926 11 11 11 11-4.926 11-11S17.074 0 11 0zm-.02 1.049h.002a.07.07 0 00.018 0c4.548 0 8.384 3.052 9.57 7.217a17.315 17.315 0 01-4.213 5.496c-.847.733-1.773 1.383-2.79 1.842-1.018.458-2.136.719-3.247.656a5.6 5.6 0 01-2.271-.633 18.276 18.276 0 005.078-4.12c.956-1.116 1.791-2.39 2.115-3.833.165-.722.19-1.48.04-2.207a4.079 4.079 0 00-.999-1.965 4.013 4.013 0 00-1.855-1.098 4.85 4.85 0 00-2.153-.078c-1.423.261-2.693 1.086-3.705 2.108-1.787 1.8-2.89 4.34-2.687 6.875.102 1.267.524 2.511 1.252 3.554.143.205.302.398.467.584a16.228 16.228 0 01-3.086.739A9.946 9.946 0 0110.98 1.049zm.07 2.02c.004-.001.016.002.012.001.692 0 1.387.211 1.936.627a3.2 3.2 0 011.068 1.49 4.12 4.12 0 01.192 1.848c-.143 1.243-.77 2.388-1.533 3.393-1.354 1.778-3.156 3.203-5.159 4.2-.19.095-.386.187-.582.274a5.114 5.114 0 01-1.05-1.295c-.59-1.044-.784-2.284-.67-3.482.116-1.199.526-2.356 1.082-3.43.643-1.244 1.516-2.418 2.732-3.09a4.14 4.14 0 011.973-.537zm9.83 6.81c.042.367.071.739.071 1.117 0 5.497-4.452 9.953-9.95 9.953a9.917 9.917 0 01-7.59-3.53 18.138 18.138 0 003.17-1.06c.461.346.967.634 1.507.84 1.59.61 3.392.52 4.996-.035 1.603-.555 3.021-1.549 4.256-2.705a18.264 18.264 0 003.54-4.58z"/></svg></a></li>
+                    <li><a  href="/es/support">Soporte</a></li>
+                    <li><a  href="https://developer.elementary.io" target="_self">Desarrollar</a></li>
+                    <li><a  href="/es/get-involved">Participa</a></li>
+                    <li><a  href="https://store.elementary.io" target="_self">Tienda</a></li>
+                    <li><a  href="https://blog.elementary.io" target="_self">Blog</a></li>
+                </ul>
+                <ul class="right">
+                    <li><a  href="https://youtube.com/user/elementaryproject" target="_blank" rel="noopener" data-l10n-off aria-label="YouTube" title="YouTube"><i aria-hidden="true" class="fab fa-youtube"></i></a></li>
+                    <li><a  href="https://mastodon.social/@elementary" target="_blank" rel="noopener me" data-l10n-off aria-label="Mastodon" title="Mastodon"><i aria-hidden="true" class="fab fa-mastodon"></i></a></li>
+                    <li><a  href="https://discord.gg/pCenUBu" target="_blank" rel="noopener" data-l10n-off aria-label="Discord" title="Discord"><i aria-hidden="true" class="fab fa-discord"></i></a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <noscript>
+            <div id="js-alert">
+                <p><strong>JavaScript is required</strong> for parts of this site, like downloading elementary OS and some interactive components.</p>
+            </div>
+        </noscript>
+
+        <div id="content-container">
+
+<section class="grid">
+  <div class="two-thirds">
+    <h1>Soporte impulsado por la comunidad</h1>
+    <p>Póngase en contacto y participe en nuestra comunidad global. Busque por preguntas, haga las suyas o ayude compartiendo sus conocimientos. Elija una aplicación o componente a continuación para ver las discusiones individuales.</p>
+  </div>
+</section>
+
+<div class="row apps">
+  <a  class="app" href="https://github.com/elementary/appcenter/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/appcenter.svg" alt="Centro de Aplicaciones"/>
+    <span>Centro de Aplicaciones</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/calculator/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/calculator.svg" alt="Calculadora"/>
+    <span>Calculadora</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/calendar/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/calendar.svg" alt="Calendario"/>
+    <span>Calendario</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/camera/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/camera.svg" alt="Cámara"/>
+    <span>Cámara</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/code/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/code.svg" alt="Code"/>
+    <span>Code</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/files/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/files.svg" alt="Archivos"/>
+    <span>Archivos</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/mail/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/mail.svg" alt="Correo"/>
+    <span>Correo</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/maps/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/maps.svg" alt="Maps"/>
+    <span>Maps</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/monitor/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/monitor.svg" alt="Monitor"/>
+    <span>Monitor</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/music/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/music.svg" alt="Música"/>
+    <span>Música</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/photos/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/photos.svg" alt="Fotos"/>
+    <span>Fotos</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/screenshot/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/screenshot.svg" alt="Captura de pantalla"/>
+    <span>Captura de pantalla</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/shortcut-overlay/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/shortcuts.svg" alt="Atajos"/>
+    <span>Atajos</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/tasks/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/tasks.svg" alt="Tareas"/>
+    <span>Tareas</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/terminal/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/terminal.svg" alt="Terminal"/>
+    <span>Terminal</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/videos/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/videos.svg" alt="Videos"/>
+    <span>Videos</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/browser/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/web.svg" alt="Web"/>
+    <span>Web</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/installer/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/installer.svg" alt="Instalador"/>
+    <span>Instalador</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/gala/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/multitasking-view.svg" alt="Multitarea"/>
+    <span>Multitarea</span>
+  </a>
+
+  <a  class="app" href="https://github.com/elementary/switchboard/discussions/categories/q-a" target="_blank" rel="noopener">
+  <img  width="64" height="64" src="imagenes/system-settings.svg" alt="Configuración del Sistema"/>
+    <span>Configuración del Sistema</span>
+  </a>
+</div>
+
+<section class="grid">
+  <div class="two-thirds">
+    <a  href="https://github.com/orgs/elementary/discussions/categories/q-a" target="_blank" rel="noopener" class="read-more">Ayuda y otras preguntas</a>
+  </div>
+</section>
+
+<div class="row">
+  <h2>Documentación y guías</h2>
+
+  <a  class="column third" href="/docs/installation">
+    <i class="fa fa-download"></i>
+    <h3>Instalación</h3>
+    <p>Aprenda a instalar elementary OS con nuestra guía paso a paso.</p>
+  </a>
+
+  <a  class="column third" href="/docs/learning-the-basics">
+    <i class="fa fa-book"></i>
+    <h3>Aprenda los conceptos básicos</h3>
+    <p>Dé un paseo por el escritorio, la multitarea, los atajos de teclado y más.</p>
+  </a>
+</div>
+
+<section class="grid">
+  <div class="two-thirds">
+    <h2>Soporte para pagos y descargas</h2>
+    <p>Si necesita ayuda con su compra de elementary OS, por ejemplo descargar su copia o solicitar un reembolso, contáctese con nosotros usando los detalles de su recibo en su correo electrónico. Un miembro del equipo se contactará con usted lo más pronto posible.</p>
+  </div>
+</div>
+
+       </div>
+        <footer>
+            <div>
+                <p>
+                    Copyright &copy; 2025 elementary, Inc.                </p>
+                <div class="popover">
+                    <a  href="#"><i class="far fa-language"></i> Idioma</a>
+                    <div class="popover-content">
+                        <strong>Cambiar el idioma del sitio web</strong>
+                        <ul>
+                                                    <li><a  href="/en/support" rel="alternate" hreflang="en" data-l10n-off>
+                                English                            </a></li>
+                                                            <hr>
+                                                            <li><a  href="/ar/support" rel="alternate" hreflang="ar" data-l10n-off>
+                                العَرَبِيَّة‎‎                            </a></li>
+                                                        <li><a  href="/be/support" rel="alternate" hreflang="be" data-l10n-off>
+                                Беларуская                            </a></li>
+                                                        <li><a  href="/ca/support" rel="alternate" hreflang="ca" data-l10n-off>
+                                català                            </a></li>
+                                                        <li><a  href="/cs/support" rel="alternate" hreflang="cs" data-l10n-off>
+                                čeština                            </a></li>
+                                                        <li><a  href="/da/support" rel="alternate" hreflang="da" data-l10n-off>
+                                Dansk                            </a></li>
+                                                        <li><a  href="/de/support" rel="alternate" hreflang="de" data-l10n-off>
+                                Deutsch                            </a></li>
+                                                        <li><a  href="/es/support" rel="alternate" hreflang="es" data-l10n-off>
+                                Español                            </a></li>
+                                                        <li><a  href="/fa/support" rel="alternate" hreflang="fa" data-l10n-off>
+                                فارسی                            </a></li>
+                                                        <li><a  href="/fi/support" rel="alternate" hreflang="fi" data-l10n-off>
+                                Finnish                            </a></li>
+                                                        <li><a  href="/fr/support" rel="alternate" hreflang="fr" data-l10n-off>
+                                Français                            </a></li>
+                                                        <li><a  href="/gl/support" rel="alternate" hreflang="gl" data-l10n-off>
+                                Galego                            </a></li>
+                                                        <li><a  href="/he/support" rel="alternate" hreflang="he" data-l10n-off>
+                                עִברִית                            </a></li>
+                                                        <li><a  href="/id/support" rel="alternate" hreflang="id" data-l10n-off>
+                                Bahasa Indonesia                            </a></li>
+                                                        <li><a  href="/it/support" rel="alternate" hreflang="it" data-l10n-off>
+                                Italiano                            </a></li>
+                                                        <li><a  href="/ja/support" rel="alternate" hreflang="ja" data-l10n-off>
+                                日本語                            </a></li>
+                                                        <li><a  href="/ko/support" rel="alternate" hreflang="ko" data-l10n-off>
+                                한국어                            </a></li>
+                                                        <li><a  href="/lt/support" rel="alternate" hreflang="lt" data-l10n-off>
+                                Lietuvių kalba                            </a></li>
+                                                        <li><a  href="/ms/support" rel="alternate" hreflang="ms" data-l10n-off>
+                                bahasa Melayu                            </a></li>
+                                                        <li><a  href="/mr/support" rel="alternate" hreflang="mr" data-l10n-off>
+                                मराठी                            </a></li>
+                                                        <li><a  href="/nb/support" rel="alternate" hreflang="nb" data-l10n-off>
+                                Bokmål                            </a></li>
+                                                        <li><a  href="/nl/support" rel="alternate" hreflang="nl" data-l10n-off>
+                                Nederlands                            </a></li>
+                                                        <li><a  href="/nn/support" rel="alternate" hreflang="nn" data-l10n-off>
+                                Nynorsk                            </a></li>
+                                                        <li><a  href="/pa/support" rel="alternate" hreflang="pa" data-l10n-off>
+                                ਪੰਜਾਬੀ                            </a></li>
+                                                        <li><a  href="/pl/support" rel="alternate" hreflang="pl" data-l10n-off>
+                                Polski                            </a></li>
+                                                        <li><a  href="/pt_BR/support" rel="alternate" hreflang="pt-BR" data-l10n-off>
+                                Português (Brasil)                            </a></li>
+                                                        <li><a  href="/pt/support" rel="alternate" hreflang="pt" data-l10n-off>
+                                Português (Portugal)                            </a></li>
+                                                        <li><a  href="/ru/support" rel="alternate" hreflang="ru" data-l10n-off>
+                                Русский                            </a></li>
+                                                        <li><a  href="/sk/support" rel="alternate" hreflang="sk" data-l10n-off>
+                                Slovak                            </a></li>
+                                                        <li><a  href="/sv/support" rel="alternate" hreflang="sv" data-l10n-off>
+                                Swedish                            </a></li>
+                                                        <li><a  href="/tr/support" rel="alternate" hreflang="tr" data-l10n-off>
+                                Türkçe                            </a></li>
+                                                        <li><a  href="/uk/support" rel="alternate" hreflang="uk" data-l10n-off>
+                                українська                            </a></li>
+                                                        <li><a  href="/vi/support" rel="alternate" hreflang="vi" data-l10n-off>
+                                Tiếng Việt                            </a></li>
+                                                        <li><a  href="/zh_CN/support" rel="alternate" hreflang="zh-CN" data-l10n-off>
+                                简体中文                            </a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <ul>
+                <li><a  href="/press">Press</a></li>
+                <li><a  href="/brand">Marca</a></li>
+                <li><a  href="/oem">OEMs</a></li>
+                <li><a  href="/privacy">Privacy</a></li>
+                <li><a  href="https://github.com/orgs/elementary/people">Equipo</a></li>
+                <li><a  href="/open-source">Código abierto</a></li>
+            </ul>
+        </footer>
+           <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"5b401af0237f48978f34769dfe6f5f68","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
